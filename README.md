@@ -49,7 +49,7 @@ Ensure the following dependencies are installed:
 - Run the following command to start the application:
   
    ```bash
-   Run the following command to start the application:
+   streamlit run app.py
 
 ## 💻 Features in Detail ⚡
 ## 1. Real-Time Threat Feed
