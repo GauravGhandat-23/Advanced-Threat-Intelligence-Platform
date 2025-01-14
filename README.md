@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/98639b79-2f8e-4af0-a601-189bf5cad9a4)
 
-![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence%20Platform-blue?style=for-the-badge&logo=security)
+[![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence%20Platform-blue?style=for-the-badge&logo=security)](https://advanced-threat-intelligence-platform-mk7obgez2n4p59zcvziiso.streamlit.app/)
 
 ## 📝 Overview
 
